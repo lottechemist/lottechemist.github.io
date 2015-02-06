@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title></title>
+ <link href="atom.xml" rel="self"/>
+ <link href=""/>
+ <updated>2014-11-23T11:52:22+00:00</updated>
+ <id></id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Getting started</title>
+   <link href="/2014/11/22/getting-started.html"/>
+   <updated>2014-11-22T00:00:00+00:00</updated>
+   <id>/2014/11/22/getting-started</id>
+   <content type="html">&lt;p&gt;Set up GitHub pages:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pages.github.com/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tidy up terminal:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://osxdaily.com/2006/12/11/how-to-customize-your-terminal-prompt/&quot;&gt;here&lt;/a&gt;
+&lt;a href=&quot;http://osxdaily.com/2012/10/24/set-the-hostname-computer-name-and-bonjour-name-separately-in-os-x/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In terminal do:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;nano ~/.bash_profile&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Add a line containing this:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;export PS1=&quot;\W\$ &quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Save as per nano on-screen instructions.&lt;/p&gt;
+
+&lt;p&gt;Install Jekyll:
+&lt;a href=&quot;https://help.github.com/articles/using-jekyll-with-pages/#installing-jekyll&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Learn about Jekyll:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/docs/home/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Install Atom:
+&lt;a href=&quot;https://atom.io/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Install node.js:
+&lt;a href=&quot;http://nodejs.org/download/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Install Atom Package Manager:
+&lt;code&gt;npm install atom package manager&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Did I actually need this?:
+&lt;code&gt;apm install project-manager&lt;/code&gt;
+I think hitting &lt;code&gt;file&lt;/code&gt; &amp;gt; &lt;code&gt;open&lt;/code&gt; and selecting the project folder opened my project without the need to install apm.&lt;/p&gt;
+
+&lt;p&gt;Get Poole:
+http://getpoole.com/&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
